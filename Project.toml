@@ -1,0 +1,13 @@
+name = "Homework6"
+uuid = "e35660f1-e08f-45c7-8a36-e0bfc4bad003"
+authors = ["Promia Chowdhury <promia@mit.edu> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

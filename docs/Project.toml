@@ -1,3 +1,4 @@
 [deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-Homework6 = "e35660f1-e08f-45c7-8a36-e0bfc4bad003"
+HashCode2014 = "7bbed249-721d-42ac-b1f6-7cf884be0fbe"

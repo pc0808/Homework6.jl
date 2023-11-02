@@ -1,0 +1,5 @@
+#!/Users/promiachowdhury/Documents/fall23/6.c25/Homework6/docs/.CondaPkg/env/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

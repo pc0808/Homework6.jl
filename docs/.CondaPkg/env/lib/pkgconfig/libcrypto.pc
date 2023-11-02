@@ -1,0 +1,13 @@
+prefix=/Users/promiachowdhury/Documents/fall23/6.c25/Homework6/docs/.CondaPkg/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+enginesdir=${libdir}/engines-3
+modulesdir=${libdir}/ossl-modules
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 3.1.4
+Libs: -L${libdir} -lcrypto
+Libs.private:  
+Cflags: -I${includedir}

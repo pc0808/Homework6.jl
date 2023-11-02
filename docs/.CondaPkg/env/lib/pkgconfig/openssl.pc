@@ -1,0 +1,9 @@
+prefix=/Users/promiachowdhury/Documents/fall23/6.c25/Homework6/docs/.CondaPkg/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.1.4
+Requires: libssl libcrypto
